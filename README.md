@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maximus Burwood.
 - 👀 I’m interested in computational biology, simulation-based studies, and the interplay of algorithms with natural systems. I have a passion for evolutionary simulations, genomics, and deep learning techniques for biological data analysis. Beyond that, I’m keen on exploring high-performance computing and assembly-level optimization.
-- 🌱 I’m currently learning genomic data structures, vectorized computing techniques, and GPU acceleration for scientific computation. I'm also delving deeper into the intricacies of evolutionary algorithms and their real-world applications.
+- 🌱 I’m currently learning genomic data structures, vectorised computing techniques, and GPU acceleration for scientific computation. I'm also delving deeper into the intricacies of evolutionary algorithms and their real-world applications.
 - 💞️ I’m looking to collaborate on projects related to genome simulations, evolutionary computation, or anything at the intersection of biology and computer science. If you have an idea involving optimisation, simulations, or bioinformatics, let’s chat!
 - 📫 How to reach me drop me an email at maximus.burwood@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/maximus-burwood-a3860a302/.
 - 😄 Pronouns: he/him
