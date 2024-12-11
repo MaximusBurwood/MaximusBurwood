@@ -7,4 +7,3 @@
 - ⚡ Fun fact: I got fed up with the glacial pace of one of my simulations, which was written in C++ (you know, that high-level, super-inefficient language), so I decided to learn x86 assembly. Because why not trade readability and sanity for a 45% increase in speed? Totally worth it!
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximusBurwood&show_icons=true&theme=highcontrast)
