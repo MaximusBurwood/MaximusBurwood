@@ -4,9 +4,9 @@
 - 📫 How to reach me: drop me an email at maximus.burwood@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/maximus-burwood/.
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximusBurwood&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximusBurwood&show_icons=true&theme=highcontrast&hide_title=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
