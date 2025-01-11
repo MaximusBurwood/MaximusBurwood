@@ -1,5 +1,5 @@
 <!-- README.md -->
-<div style="background-color: #000000; color: #33CC99; font-family: 'Fira Code', monospace; padding: 20px; line-height: 1.6;">
+<div style="background-color: #000000; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
 
   <!-- Dynamic Introduction -->
   <p align="center">
@@ -33,14 +33,21 @@
     </a>
   </div>
 
-  <!-- Languages and Tools -->
-  <div align="center">
-    <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">Languages and Tools</p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/x86%20Assembly-525252?style=for-the-badge&logo=gnu&logoColor=white" alt="x86 Assembly" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </div>
+<!-- Languages and Tools -->
+<div align="center">
+  <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">Languages and Tools</p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
+</div>
+
 
 </div>
