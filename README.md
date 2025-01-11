@@ -4,23 +4,20 @@
 - 📫 How to reach me: drop me an email at maximus.burwood@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/maximus-burwood/.
 
 ### GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MaximusBurwood&show_icons=true&theme=highcontrast&hide_title=true" alt="Anurag's GitHub stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="Ashutosh's github activity graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast" alt="GitHub Streak" width="400">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="GitHub Activity Graph" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
