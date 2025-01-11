@@ -17,16 +17,16 @@
 
   <p>
     <p align="center">
-    <a href="https://www.linkedin.com/in/maximus-burwood/">
-      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="32" height="32" style="margin: 0 10px;" />
-    </a>
     <a href="mailto:maximus.burwood@gmail.com">
-      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="32" height="32" style="margin: 0 10px;" />
+      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="32" height="32" />
+    </a>
+    <a href="https://www.linkedin.com/in/maximus-burwood/">
+      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="32" height="32" />
     </a>
     <a href="https://bsky.app/profile/maximusburwood.bsky.social">
-      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="32" height="32" style="margin: 0 10px;" />
+      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="32" height="32" />
     <a href="https://www.youtube.com/channel/UCTVCRfxL6dG04jmmszRqR3w">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="32" height="32" style="margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="32" height="32">
     </a>
   </a>
 </p>
@@ -93,11 +93,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99" alt="GitHub Streak" width="60%" />
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99" alt="GitHub Streak" width="50%" />
     </a>
     <br />
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=000000&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="60%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=000000&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="80%"/>
     </a>
   </div>
 
