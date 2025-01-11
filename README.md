@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I got fed up with the glacial pace of C++ (you know, that high-level, super-inefficient language), so I decided to learn assembly. Because why not trade readability and sanity for a 45% increase in speed? Totally worth it!
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
