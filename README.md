@@ -1,39 +1,41 @@
 <!-- README.md -->
-<div style="background: url('https://www.colorhexa.com/051510.png'); background-size: cover; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
+<div style="background: url('https://www.colorhexa.com/010409.png'); background-size: cover; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
+
+  <p align="center">
+    <a href="https://github.com/MaximusBurwood">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=435&lines=Maximus+Burwood" alt="Nameplate" />
+    </a>
+  </p>
 
   <!-- Dynamic Introduction -->
   <p align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://github.com/MaximusBurwood">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=33CC99&center=true&vCenter=true&height=24&lines=Computational+Biology;Evolutionary+Simulations;Genomic+Data+Structures;Algorithmic+Optimisations" alt="Typing SVG" />
     </a>
   </p>
 
   <!-- Social Icons -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Contact+Me" alt="Typing SVG" />
-    </a>
-  </p>
-
   <p>
     <p align="center">
     <a href="mailto:maximus.burwood@gmail.com">
-      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="32" height="32" />
+      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="40" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/maximus-burwood/">
-      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="32" height="32" />
+      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="40" height="40" />
     </a>
     <a href="https://bsky.app/profile/maximusburwood.bsky.social">
-      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="32" height="32" />
+      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="40" height="40" />
     <a href="https://www.youtube.com/channel/UCTVCRfxL6dG04jmmszRqR3w">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="32" height="32">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="40" height="40">
     </a>
   </a>
 </p>
 
 <!-- Languages and Tools -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Languages and Tools Title" />
+  </a>
   <p>
   <a href="https://github.com/MaximusBurwood?tab=repositories">
    <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript" alt="x86 Assembly" />
@@ -90,14 +92,13 @@
 
   <!-- GitHub Stats -->
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /></a>
+    <a href="https://github.com/MaximusBurwood"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="GitHub Stats Title" /></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99&background=051510" alt="GitHub Streak" width="50%" />
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99&background=010409" alt="GitHub Streak" width="50%" />
     </a>
-    <br />
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=051510&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="80%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=010409&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="80%"/>
     </a>
   </div>
 
