@@ -10,7 +10,7 @@ d- 👋 Heya, I’m Maximus Burwood.
   </a>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="GitHub Activity Graph" width="1200">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true&hide_border=true" alt="GitHub Activity Graph" width="1200">
   </a>
 </div>
 
