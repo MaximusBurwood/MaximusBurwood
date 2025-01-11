@@ -23,7 +23,7 @@
 
   <!-- GitHub Stats -->
   <div align="center">
-    <h2 style="color: #33CC99;">GitHub Stats</h2>
+    <h2 style="color: #33CC99; text-decoration:none;">GitHub Stats</h2>
     <a href="https://github.com/MaximusBurwood">
       <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&border_radius=10&hide_border=true&fire=#26E2A3&ring=#26E2A3" alt="GitHub Streak" width="50%" />
     </a>
@@ -35,7 +35,7 @@
 
   <!-- Languages and Tools -->
   <div align="center">
-    <h2 style="color: #33CC99;">Languages and Tools</h2>
+    <h2 style="color: #33CC99; text-decoration:none;">Languages and Tools</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
