@@ -6,11 +6,11 @@ d- 👋 Heya, I’m Maximus Burwood.
 ### GitHub Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MaximusBurwood&theme=highcontrast&ring=26E2A3&fire=26E2A3&currStreakLabel=26E2A3&hide_border=true" alt="GitHub Streak" width="1200">
+    <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast&border_radius=0&ring=26E2A3&fire=26E2A3&currStreakLabel=26E2A3" alt="GitHub Streak" width="1200">
   </a>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true&hide_border=true" alt="GitHub Activity Graph" width="1200">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="GitHub Activity Graph" width="1200">
   </a>
 </div>
 
