@@ -1,5 +1,5 @@
 <!-- README.md -->
-<div style="background-color: #000000; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
+<div style="background: url('https://www.colorhexa.com/051510.png'); background-size: cover; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
 
   <!-- Dynamic Introduction -->
   <p align="center">
@@ -93,11 +93,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99" alt="GitHub Streak" width="50%" />
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99&background=051510" alt="GitHub Streak" width="50%" />
     </a>
     <br />
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=000000&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="80%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=051510&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="80%"/>
     </a>
   </div>
 
