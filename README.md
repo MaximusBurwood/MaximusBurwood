@@ -4,20 +4,15 @@
 - 📫 How to reach me: drop me an email at maximus.burwood@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/maximus-burwood/.
 
 ### GitHub Stats
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast" alt="GitHub Streak" width="400">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="GitHub Activity Graph" width="400">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast" alt="GitHub Streak" width="400">
+  </a>
+  <br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true" alt="GitHub Activity Graph" width="400">
+  </a>
+</div>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
