@@ -6,7 +6,7 @@ d- 👋 Heya, I’m Maximus Burwood.
 ### GitHub Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast&ring=26E2A3&fire=26E2A3" alt="GitHub Streak" width="1200">
+    <img src="https://streak-stats.demolab.com/?user=MaximusBurwood&theme=highcontrast&ring=26E2A3&fire=26E2A3&currStreakLabel=26E2A3" alt="GitHub Streak" width="1200">
   </a>
   <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
