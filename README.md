@@ -10,7 +10,7 @@
   </a>
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MaximusBurwood&theme=highcontrast&border_radius=0&ring=26E2A3&fire=26E2A3&currStreakLabel=26E2A3" alt="GitHub Streak" width="1200">
+    <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&border_radius=0&date_format=j%2Fn%5B%2FY%5D&currStreakLabel=26E2A3&fire=26E2A3&ring=26E2A3" alt="GitHub Streak" width="1200">
   </a>
 </div>
 
