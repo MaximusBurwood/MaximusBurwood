@@ -4,7 +4,7 @@
   <!-- Dynamic Introduction -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=33CC99&center=true&width=500&lines=Computational+Biology+;Evolutionary+Simulations;Genomic+Data+Structures;Algorithmic+Optimisations" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=33CC99&center=true&vCenter=true&height=24&lines=Computational+Biology;Evolutionary+Simulations;Genomic+Data+Structures;Algorithmic+Optimisations" alt="Typing SVG" />
     </a>
   </p>
 
@@ -23,19 +23,19 @@
 
   <!-- GitHub Stats -->
   <div align="center">
-    <h2 style="color: #33CC99; text-decoration:none;">GitHub Stats</h2>
+    <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">GitHub Stats</p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&border_radius=10&hide_border=true&fire=#26E2A3&ring=#26E2A3" alt="GitHub Streak" width="50%" />
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99" alt="GitHub Streak" width="60%" />
     </a>
     <br />
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&theme=high-contrast&hide_title=true&border_radius=10&hide_border=true" alt="GitHub Activity Graph" width="50%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=000000&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="60%"/>
     </a>
   </div>
 
   <!-- Languages and Tools -->
   <div align="center">
-    <h2 style="color: #33CC99; text-decoration:none;">Languages and Tools</h2>
+    <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">Languages and Tools</p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
