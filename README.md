@@ -11,19 +11,21 @@
   <!-- Social Icons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/maximus-burwood/">
-      <img src="" alt="LinkedIn" width="64" height="64" style="margin: 0 10px;" />
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="64" height="64" style="margin: 0 10px;" />
     </a>
     <a href="mailto:maximus.burwood@gmail.com">
-      <img src="" alt="Email" width="64" height="64" style="margin: 0 10px;" />
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="64" height="64" style="margin: 0 10px;" />
     </a>
     <a href="https://bsky.app/profile/maximusburwood.bsky.social">
-      <img src="" alt="Bluesky" width="64" height="64" style="margin: 0 10px;" />
-    </a>
-  </p>
+      <img src="https://bsky.app/logo-placeholder.png" alt="Bluesky" width="64" height="64" style="margin: 0 10px;" />
+  </a>
+</p>
+
 
   <!-- GitHub Stats -->
   <div align="center">
-    <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">GitHub Stats</p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /></a>
+    <p>
     <a href="https://github.com/MaximusBurwood">
       <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99" alt="GitHub Streak" width="60%" />
     </a>
@@ -35,13 +37,14 @@
 
 <!-- Languages and Tools -->
 <div align="center">
-  <p style="color: #33CC99; text-decoration:none; font-size:20px; font-weight:1000;">Languages and Tools</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Typing SVG" /></a>
+  <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript" alt="x86 Assembly" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-
+  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
