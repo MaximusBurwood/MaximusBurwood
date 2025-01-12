@@ -1,22 +1,21 @@
 <!-- README.md -->
 <div style="background: url('https://www.colorhexa.com/010409.png'); background-size: cover; color: #33CC99; font-family: 'Fira Code', monospace; padding: 5px; line-height: 1.8;">
 
-  <p align="center">
+  <p align="center" style="text-decoration:none;">
     <a href="https://github.com/MaximusBurwood">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=435&lines=Maximus+Burwood" alt="Nameplate" />
     </a>
   </p>
 
   <!-- Dynamic Introduction -->
-  <p align="center">
+  <p align="center" style="text-decoration:none;">
     <a href="https://github.com/MaximusBurwood">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=33CC99&center=true&vCenter=true&height=24&lines=Computational+Biology;Evolutionary+Simulations;Genomic+Data+Structures;Algorithmic+Optimisations" alt="Typing SVG" />
     </a>
   </p>
 
   <!-- Social Icons -->
-  <p>
-    <p align="center">
+  <p align="center" style="text-decoration:none;">
     <a href="mailto:maximus.burwood@gmail.com">
       <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="40" height="40" />
     </a>
@@ -32,7 +31,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<div align="center">
+<div align="center" style="text-decoration:none;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Languages and Tools Title" />
   </a>
@@ -91,7 +90,7 @@
 </div>
 
   <!-- GitHub Stats -->
-  <div align="center">
+  <div align="center" style="text-decoration:none;">
     <a href="https://github.com/MaximusBurwood"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="GitHub Stats Title" /></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
