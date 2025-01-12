@@ -92,9 +92,9 @@
     <a href="https://github.com/MaximusBurwood"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="GitHub Stats Title"/></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99&background=010409" alt="GitHub Streak" width="65%"/></a>
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=highcontrast&hide_border=true&border_radius=0&fire=33CC99&ring=33CC99&currStreakLabel=33CC99&background=010409" alt="GitHub Streak" width="75%"/></a>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=010409&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="95%"/></a>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=010409&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="100%"/></a>
   </div>
 
 </div>
