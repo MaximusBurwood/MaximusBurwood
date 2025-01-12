@@ -35,37 +35,37 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Languages and Tools Title"/></a>
   <p>
-  <a href="https://github.com/MaximusBurwood?tab=repositories">
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=assembly&sort=">
    <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript" alt="x86 Assembly"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=c%2B%2B&sort=">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=python&sort=">  
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=r&sort=">  
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
   <p>
   <a href="https://github.com/MaximusBurwood?tab=repositories">  
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=python&sort=">  
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=python&sort=">  
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=python&sort=">  
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy"/></a>
   <p>
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=css&sort=">  
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=html&sort=">  
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood?tab=repositories&q=&type=&language=tex&sort=">  
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
   &#8287;
   <a href="https://github.com/MaximusBurwood?tab=repositories">  
@@ -74,13 +74,13 @@
   <a href="https://github.com/MaximusBurwood?tab=repositories">  
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood">  
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood">  
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
   &#8287;
-  <a href="https://github.com/MaximusBurwood?tab=repositories">  
+  <a href="https://github.com/MaximusBurwood">  
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu"/></a>
 </div>
 
