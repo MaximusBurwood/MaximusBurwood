@@ -19,9 +19,6 @@
     <a href="mailto:maximus.burwood@gmail.com">
       <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="36" height="36"/></a>
     &#8287;&#8287;&#8287;
-    <a href="https://orcid.org/0009-0008-8871-8776">
-      <img src="https://i.imgur.com/B3zQtzG.png" alt="ORCID" width="36" height="36"/></a>
-    &#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/maximus-burwood/">
       <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="36" height="36"/></a>
     &#8287;&#8287;&#8287;
@@ -30,6 +27,9 @@
     &#8287;&#8287;&#8287;
     <a href="https://www.youtube.com/channel/UCTVCRfxL6dG04jmmszRqR3w">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="36" height="36"/></a>
+    <a href="https://orcid.org/0009-0008-8871-8776">
+      <img src="https://i.imgur.com/B3zQtzG.png" alt="ORCID" width="36" height="36"/></a>
+    &#8287;&#8287;&#8287;
   </a>
 </p>
 
