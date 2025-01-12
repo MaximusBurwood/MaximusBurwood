@@ -17,20 +17,16 @@
   <!-- Social Icons -->
   <p align="center" style="text-decoration:none;">
     <a href="mailto:maximus.burwood@gmail.com">
-      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="40" height="40" />
-    </a>
+      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_sq.jpg" alt="Email" width="40" height="40"/></a>
     &#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/maximus-burwood/">
-      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="40" height="40" />
-    </a>
+      <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" alt="LinkedIn" width="40" height="40"/></a>
     &#8287;&#8287;&#8287;
     <a href="https://bsky.app/profile/maximusburwood.bsky.social">
-      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="40" height="40" />
-    </a>
+      <img src="https://eurogen-ern.eu/wp-content/uploads/2024/02/Bluesky-icon.jpeg" alt="Bluesky" width="40" height="40"/></a>
     &#8287;&#8287;&#8287;
     <a href="https://www.youtube.com/channel/UCTVCRfxL6dG04jmmszRqR3w">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="40" height="40">
-    </a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="40" height="40"/></a>
   </a>
 </p>
 
