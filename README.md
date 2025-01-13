@@ -92,7 +92,7 @@
     <a href="https://github.com/MaximusBurwood"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=3600000000&color=33CC99&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="GitHub Stats Title"/></a>
     <p>
     <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=33CC99&ring=33CC99&sideNums=33CC99&currStreakLabel=33CC99&sideLabels=33CC99&dates=33CC99&currStreakNum=33CC99&stroke=33CC99" alt="GitHub Streak" alt="GitHub Streak" width="100%"/></a>
+      <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=33CC99&ring=33CC99&sideNums=33CC99&currStreakLabel=33CC99&sideLabels=33CC99&dates=33CC99&currStreakNum=33CC99&stroke=33CC99" alt="GitHub Streak" alt="GitHub Streak" width="75%"/></a>
   </div>
 
 </div>
