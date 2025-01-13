@@ -93,8 +93,6 @@
     <p>
     <a href="https://github.com/MaximusBurwood">
       <img src="https://github-readme-streak-stats-three-xi.vercel.app?user=MaximusBurwood&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=33CC99&ring=33CC99&sideNums=FFFFFF&currStreakLabel=33CC99&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="75%"/></a>
-    <a href="https://github.com/MaximusBurwood">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximusBurwood&bg_color=010409&color=FFFFFF&line=33CC99&point=33CC99&hide_title=true&border_radius=0&hide_border=true" alt="GitHub Activity Graph" width="100%"/></a>
   </div>
 
 </div>
