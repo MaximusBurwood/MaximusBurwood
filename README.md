@@ -29,7 +29,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/1280px-YouTube_play_button_square_%282013-2017%29.svg.png?20190606142134" alt="Youtube" width="36" height="36"/></a>
     &#8287;&#8287;&#8287;
     <a href="https://orcid.org/0009-0008-8871-8776">
-      <img src="https://i.imgur.com/B3zQtzG.png" alt="ORCID" width="36" height="36"/></a>
+      <img src="https://i.imgur.com/Gi0xVFW.png" alt="ORCID" width="36" height="36"/></a>
   </a>
 </p>
 
